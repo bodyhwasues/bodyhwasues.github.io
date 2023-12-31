@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyhwasues.github.io/sitemap.xml
